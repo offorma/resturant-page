@@ -1,4 +1,0 @@
-const loadPage = {
-
-    }
-export {loadPage};
