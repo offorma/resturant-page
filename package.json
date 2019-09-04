@@ -1,0 +1,26 @@
+{
+  "name": "resturant-page",
+  "version": "1.0.0",
+  "description": "A simple webpage to show menus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/offorma/resturant-page.git"
+  },
+  "keywords": [
+    "webpack",
+    "css",
+    "Html",
+    "Javascript",
+    "modules"
+  ],
+  "author": "Nonso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/offorma/resturant-page/issues"
+  },
+  "homepage": "https://github.com/offorma/resturant-page#readme"
+}
