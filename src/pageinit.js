@@ -1,5 +1,4 @@
-
-var loadPage = function loadPage(){
+const loadPage = {
 
     }
-module.exports = loadPage;
+export {loadPage};
