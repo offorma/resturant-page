@@ -23,7 +23,9 @@
     "url": "https://github.com/offorma/resturant-page/issues"
   },
   "homepage": "https://github.com/offorma/resturant-page#readme",
-  "dependencies": {
-    "webpack": "^4.39.3"
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^4.39.3",
+    "webpack-cli": "^3.3.7"
   }
 }
