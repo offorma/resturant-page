@@ -15,7 +15,7 @@ const contactContent = {
         646-747-8625</pre>`
 }
 
-  const loadContact  = () =>{
+  const loadContact  = () => {
     const content = document.getElementById("content");
     content.innerHTML = "";
     content.innerHTML = contactContent["contact"];
