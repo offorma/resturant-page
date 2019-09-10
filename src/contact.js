@@ -20,4 +20,4 @@ const contactContent = {
     content.innerHTML = "";
     content.innerHTML = contactContent["contact"];
  }
-export {contactContent, loadContact}
+export {loadContact}

@@ -7,4 +7,4 @@ const loadAbout  = () => {
     content.innerHTML = "";
     content.innerHTML = aboutContent["about"];
  };
-export {aboutContent, loadAbout}
+export {loadAbout}

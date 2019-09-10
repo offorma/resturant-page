@@ -14,4 +14,4 @@ const homeContent = {
     content.innerHTML = "";
     content.innerHTML = homeContent.home;
  };
-export {homeContent, loadHome}
+export {loadHome}
