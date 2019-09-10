@@ -17,7 +17,7 @@ const contactContent = {
 
   const loadContact  = () => {
     const content = document.getElementById("content");
-    content.innerHTML = "";
+    content.innerHTML = '';
     content.innerHTML = contactContent["contact"];
  }
 export {loadContact}
