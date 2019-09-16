@@ -1,5 +1,5 @@
 import merge from 'webpack-merge';
-import common from './webpack.config.js';
+import common from './webpack.config';
 
 module.exports = merge(common, {
   mode: 'development',
