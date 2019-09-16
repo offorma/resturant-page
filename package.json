@@ -31,5 +31,10 @@
     "webpack": "^4.39.2",
     "webpack-cli": "^3.3.7",
     "webpack-merge": "^4.2.1"
+  },
+  "eslintConfig": {
+    "globals": {
+      "window": true
+    }
   }
 }
