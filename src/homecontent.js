@@ -12,5 +12,5 @@ const loadHome = () => {
   const content = document.getElementById('content');
   content.innerHTML = '';
   content.innerHTML = homeContent.home;
- };
+};
 export default { loadHome };
