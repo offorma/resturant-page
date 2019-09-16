@@ -1,6 +1,6 @@
-import { loadHome } from './homecontent';
-import { loadContact } from './contact';
-import { loadAbout } from './aboutcontent';
+import loadHome from './homecontent';
+import loadContact from './contact';
+import loadAbout from './aboutcontent';
 
 const home = document.getElementById('home');
 home.addEventListener('click', loadHome());
