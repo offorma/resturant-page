@@ -1,5 +1,5 @@
 const contactContent = {
-contact: `<img src='img/bake2.jpeg'></img>
+  contact: `<img src='img/bake2.jpeg'></img>
   <pre><h2>HOURS & LOCATION</h2>
     30 East 30th St.,
     New York, NY 10016 
