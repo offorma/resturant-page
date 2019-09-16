@@ -20,4 +20,4 @@ const loadContact = () => {
   content.innerHTML = '';
   content.innerHTML = contactContent.contact;
 };
-export { loadContact };
+export default { loadContact };

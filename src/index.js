@@ -15,4 +15,4 @@ menus.addEventListener('click', loadContact);
 
 window.onload = () => {
     loadHome();
-}
+};
