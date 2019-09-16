@@ -34,7 +34,8 @@
   },
   "eslintConfig": {
     "globals": {
-      "window": true
+      "window": true,
+      "document": true
     }
   }
 }
