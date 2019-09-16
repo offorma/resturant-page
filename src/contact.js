@@ -1,6 +1,5 @@
 const contactContent = {
-
-  contact : `<img src='img/bake2.jpeg'></img>
+contact: `<img src='img/bake2.jpeg'></img>
   <pre><h2>HOURS & LOCATION</h2>
     30 East 30th St.,
     New York, NY 10016 
@@ -16,9 +15,9 @@ const contactContent = {
   </pre>`,
 };
 
-  const loadContact  = () => {
-  const content = document.getElementById("content");
+const loadContact = () => {
+  const content = document.getElementById('content');
   content.innerHTML = '';
   content.innerHTML = contactContent.contact;
  }
-export {loadContact}
+export { loadContact }
