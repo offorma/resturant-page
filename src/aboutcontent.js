@@ -6,5 +6,5 @@ const loadAbout = () => {
   const content = document.getElementById('content');
   content.innerHTML = '';
   content.innerHTML = aboutContent.about;
- };
+};
 export default { loadAbout };
