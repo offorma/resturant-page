@@ -19,5 +19,5 @@ const loadContact = () => {
   const content = document.getElementById('content');
   content.innerHTML = '';
   content.innerHTML = contactContent.contact;
- };
-export { loadContact }
+};
+export { loadContact };
